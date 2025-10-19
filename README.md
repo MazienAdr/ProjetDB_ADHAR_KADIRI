@@ -41,13 +41,21 @@ Le responseble cours et coaching  doit quant à lui, connaître le planning des 
 Liste des différentes fonctionnalités:
 
 -Gérer les membres: créer/mettre à jour leurs infos, leur statut, leurs abonnements.
+
 -Gérer les abonnements: types d’offres, dates de début/fin, prix, lien avec les membres.
+
 -Gérer les cours: créer des sessions avec une date et une capacité, inscrire plusieurs personnes, voir le taux de remplissage.
+
 -Gérer le coaching: enregistrer les séances individuelles par personne, retrouver l’historique.
+
 -Gérer la boutique: lister les produits (catégorie, prix, stock), chercher et filtrer.
+
 -Gérer les fournisseurs: relier chaque produit à un ou plusieurs fournisseurs, repérer les produits sans fournisseur.
+
 -Gérer les ventes: enregistrer la date, le mode de paiement, le total, l’employé qui encaisse.
+
 -Analyser les ventes: voir le chiffre d’affaires par année, par heure, par mode de paiement, les produits qui se vendent le plus ou pas du tout.
+
 -Assurer la qualité des données: règles pour éviter les prix/stock négatifs, les dates incohérentes, et garder des infos de contact valides.
 
 Réalisé par
