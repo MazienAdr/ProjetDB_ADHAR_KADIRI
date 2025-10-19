@@ -36,7 +36,7 @@ Le responsable boutique cherche à s'informer au sujet des hiffres que fait la b
 Le responsable de la gestion des stocks doit être informé quant au stock de chaque produit, savoir quel fournisseur contacter en fonction de ce dont il a besoin,
 les prix de vente des produits afin de s'assurer de faire du profit au moment de se réapprovisionner
 
-Le responseble cours et coaching  doit quant à lui, connaître le planning des cours et savoir quels adhérents et coachs ont participé à quels cours 
+Le responsable cours et coaching  doit quant à lui, connaître le planning des cours et savoir quels adhérents et coachs ont participé à quels cours 
 
 Liste des différentes fonctionnalités:
 
